@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wild_Dex</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_america_map">AmericaMap</string>
+
+    <string name="title_activity_descripcion">Descripcion</string>
+</resources>
